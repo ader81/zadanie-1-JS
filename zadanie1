@@ -2,5 +2,5 @@ onst name = prompt('podaj imię');
 const surname = prompt('podaj nazwisko');
 const age = prompt('podaj wiek');
 if (age >=18) { 
-console.log(name + surname)
+console.log(name, surname)
 };
